@@ -18,4 +18,8 @@ Aula de Modelos de Sistemas - Dia 29/09/2022
 
 - Cliente Burro: Pouquissimo recurso de harware. 
 
--Modelo de interação
+-Modelo de interação: Latência, Jitter
+
+-Cada computador possui seu proprio relogio.
+
+-Dois tipo de sistemas distribuidos: Sincrono e assincrono
