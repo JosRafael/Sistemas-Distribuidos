@@ -18,8 +18,23 @@ Aula de Modelos de Sistemas - Dia 29/09/2022
 
 - Cliente Burro: Pouquissimo recurso de harware. 
 
+*-------------------------------------------------*------------------------*----------------------------------------------------------------*------------------------------*
+Aula de Modelos de Sistemas - Dia 03/10/2022
+
 -Modelo de interação: Latência, Jitter
 
 -Cada computador possui seu proprio relogio.
 
--Dois tipo de sistemas distribuidos: Sincrono e assincrono
+-Dois tipo de sistemas distribuidos: Sincrono e Assincronos(Pesquisar sobre).
+
+-Ordenaçao de Eventos, para saber se o evento ocorreu antes ou depois, ou tambem simultaneamente.
+
+-Modelo de falhas: Falhas por omissão = Porcesso ou canal de comunicaçao que deixa de executar ações como deveria. 
+
+-Modelo de falhas: Falhas arbitrárias
+
+-Modelo de falhas: Falhas de Mascaramento
+
+                                                          -*Modelo de Segurança*-
+
+-Ameaças aos procesos
