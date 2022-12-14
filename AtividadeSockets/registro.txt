@@ -1,0 +1,4 @@
+Dados do cliente: Flow Data de entrada:14/12/2022
+Dados do cliente: 1500 Data de entrada:14/12/2022
+Dados do cliente: gasolina Data de entrada:14/12/2022
+Dados do cliente: sair Data de entrada:14/12/2022
